@@ -1,6 +1,6 @@
-# Gulpie
+# Guppie
 
-## A bare bones gulp starter with
+## A bare bones gulp starter with:
 - Sass building (development and production)
 - Browser-sync server
 
